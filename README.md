@@ -4,6 +4,7 @@
 
 * Currently a student in FPT University
 * Having interested in Avation Industry
+* **Java Anti-fan**
 
 ## My stats
 
