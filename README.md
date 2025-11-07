@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/5412334d-d803-44d3-9b17-6ac47b6e2b67)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/717c7533-fc9b-4056-a68f-a555eac4d2d1" alt="A330 w/ F-14D" />
+</p>
 
 # Hi there, I am Vo Luu Tuong Anh
 
