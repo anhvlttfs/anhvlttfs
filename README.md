@@ -4,12 +4,6 @@
 * Having interested in Avation Industry
 * **Java Anti-fan**
 
-## My stats
-
-<p align="center">
-<img align="center" width="1000" height="auto" src="https://github-readme-stats.vercel.app/api?username=anhvlttfs&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</p>
-
 ## Contact me
 
 <p align="left">
