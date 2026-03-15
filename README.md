@@ -7,7 +7,7 @@
 ## Contact me
 
 <p align="left">
-<a href="mailto:anhvlt.tfs@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=mailboxdotorg&logoColor=white" /></a>
+<a href="mailto:anhvlt.tfs@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/anhvlttfs/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 <a href="https://www.youtube.com/@anhvlttfs" target="_blank"><img src="https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a href="https://hub.docker.com/u/anhvlt" target="_blank" ><img src="https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
